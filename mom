@@ -1,0 +1,6 @@
+ack 'origin/raees'.
+Switched to a new branch 'raees'
+PS C:\Users\ELCOT\Desktop\Git and GitHub\github1> git branch -a
+  main
+* raees
+  remotes/origin/HEAD -> origin/maingit 

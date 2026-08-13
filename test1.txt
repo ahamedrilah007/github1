@@ -1,2 +1,1 @@
-hii sirr!!
-wbcadd
+print the  output
